@@ -23,14 +23,14 @@
 * High: Individuals with high median socioeconomic ranking.
   
 4. **capital_gl_bin:** This column represents information related to capital gains/losses, categorized into different groups:
-* = 0: Individuals with zero capital gains.
-* < 0': Individuals with negative capital gains.
-* > 0: Individuals with positive capital gains.
+* = 0 : Individuals with zero capital gains.
+* < 0 : Individuals with negative capital gains.
+* > 0 : Individuals with positive capital gains.
   
 6. **race_sex_bin:** This column represents race and gender-related information, grouped into different categories:
 * Low: Individuals from demographic groups with low significance.
 * Mid: Individuals from demographic groups with moderate significance.
-* High': Individuals from demographic groups with high significance.
+* High: Individuals from demographic groups with high significance.
   
 8. **education_num_bin:** This column represents the number of years of education completed, categorized into different bins:
 * 0-8: Individuals with 0-8 years of education.
