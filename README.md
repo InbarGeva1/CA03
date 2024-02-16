@@ -41,10 +41,10 @@
   
 9. **education_bin:** This column represents the highest level of education attained, grouped into different categories:
 * Low: Individuals with low-level education.
-* Mid': Individuals with moderate-level education below Bachelors degree.
+* Mid: Individuals with moderate-level education below Bachelors degree.
 * Bachelors: Individuals with a bachelor's degree.
 * Masters: Individuals with a master's degree.
-* High': Individuals with high-level education above Masters.
+* High: Individuals with high-level education above Masters.
   
 10. **workclass_bin:** This column represents individuals' work class or employment status, categorized into different groups:
 * no income: Individuals with no income.
