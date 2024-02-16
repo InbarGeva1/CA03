@@ -1,7 +1,7 @@
 # CA03
 
 
-# Dataset features:
+## Dataset features:
 1. hours_per_week_bin: This column likely represents the number of hours worked per week, categorized into different bins:
 	• 'a. 0-30': Individuals who work 0-30 hours per week.
 	• 'b. 31-40': Individuals who work 31-40 hours per week.
@@ -47,4 +47,3 @@
 	• 'c. 31-35 & 61-70': Individuals aged 31-35 or 61-70 years.
 	• 'd. 36-40 & 56-60': Individuals aged 36-40 or 56-60 years.
 	• 'e. 40-55': Individuals aged 40-55 years.
-![image](https://github.com/InbarGeva1/CA03/assets/144483875/018355ab-8e59-49dd-a3d1-b0ff902b7538)
