@@ -6,10 +6,10 @@
 * 0-30: Individuals who work 0-30 hours per week.
 * 31-40: Individuals who work 31-40 hours per week.
 * 41-50: Individuals who work 41-50 hours per week.
+* 51-60: Individuals who work 51-60 hours per week.
 * 61-70: Individuals who work 61-70 hours per week.
 * 71-100: Individuals who work 71-100 hours per week.
-* Individuals who work 51-60 hours per week.
-  
+
 2. **occupation_bin:** This column likely represents individuals' occupations, grouped into different categories:
 * Low: Occupations with low-level responsibilities or earnings.
 * Mid - Low: Occupations with moderate-low-level responsibilities or earnings.
@@ -52,9 +52,10 @@
   
 11. **age_bin:** This column represents individuals' age groups, categorized into different bins:
 * 0-25: Individuals aged 0-25 years.
-* 26-30 & 71-100': Individuals aged 26-30 or 71-100 years.
+* 26-30 : Individuals aged 26-30 years.
 * 31-35 : Individuals aged 31-35 years.
-* 61-70: Individuals aged 61-70 years.
 * 36-40 : Individuals aged 36-40 years.
-* 56-60: Individuals aged 56-60 years.
 * 40-55: Individuals aged 40-55 years.
+* 56-60: Individuals aged 56-60 years.
+* 61-70: Individuals aged 61-70 years.
+* 71-100: Individuals aged 71-100 years.
