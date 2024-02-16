@@ -1,7 +1,7 @@
 # CA03
 
 
-## Dataset features:
+## Dataset features and bin values:
 1. **hours_per_week_bin:** This column represents the number of hours worked per week, categorized into different bins:
 * 0-30: Individuals who work 0-30 hours per week.
 * 31-40: Individuals who work 31-40 hours per week.
