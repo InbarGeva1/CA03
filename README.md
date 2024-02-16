@@ -1,5 +1,48 @@
 # CA03
+Overview
 
+We built a Decision Tree Classifier model to predict income categories based on demographic data provided by the Census Bureau. The dataset contains salaries along with seven demographic variables, with the objective to classify individuals into two salary categories: > 50K and <=50K
+
+Data Source
+
+The dataset is sources from the following URL: https://raw.githubusercontent.com/ArinB/MSBA-CA-03-Decision-Trees/master/census_data.csv
+
+Features
+
+-	Target range: < 50K and <=50K
+-	Number Instances (Rows) : 48842
+-	Number of attributes (Columns): 7
+-	Data Split: The dataset includes a column indicating rows for “Training Data” and “Testing Data”
+
+Library Imports:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- scipy
+- IPython
+- graphviz
+- ssl
+- time
+-	Graphviz ( for tree visualization )
+
+Installation:
+
+Before running codes, make sure Python is installed, then use pip to install the requires libraries:
+pip install pandas NumPy scikit-learn graphviz
+
+Usage and Results:
+
+Data Preprocessing: We start by performing a thorough data quality analysis, addressing missing values, outliers and executing necessary data transformations.
+
+Model Building: We utilize “DecisionTreeClassifier from scikit-learn to construct our model.
+
+Evaluation: We use the model’s performance through many metrics including accuracy, precision, recall, and the F1 score
+
+Visualization: We visualize the most effective decision tree to understand the decision-making process.
+
+Prediction: We used the trained model to make predications on new data
 
 ## Dataset features and bin values:
 1. **hours_per_week_bin:** This column represents the number of hours worked per week, categorized into different bins:
